@@ -89,5 +89,9 @@ It showcases test case management, structured automation, code collaboration, an
 
 ## 💬 Questions? Feedback?
 
+![Demo Allure Report Screenshot](https://your-image-link)
+<img width="961" alt="Screenshot 2025-06-22 at 11 08 23 PM" src="https://github.com/user-attachments/assets/bbf168f9-f789-447d-b161-30a877021d8b" />
+
+
 Feel free to contact me via [[LinkedIn](https://www.linkedin.com/in/liliana-k-988b7b238/)] or [[GitHub Issues](https://github.com/LilianaKor)] — I’m open to feedback and collaboration!
 
