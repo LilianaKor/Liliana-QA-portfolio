@@ -9,7 +9,7 @@ Hi, I’m a Software QA Automation Engineer and this is a real-world demo of how
 
 ## 🎯 Overview
 
-In this 16-minute video, I demonstrate how I:
+In this video, I demonstrate how I:
 
 - Work within a shared Pytest framework using Page Object Model (POM)
 - Reuse and extend test logic via fixtures and helper methods
@@ -89,5 +89,5 @@ It showcases test case management, structured automation, code collaboration, an
 
 ## 💬 Questions? Feedback?
 
-Feel free to contact me via [[LinkedIn](https://www.linkedin.com/in/liliana-k-988b7b238/)] or [[GitHub Issues](https://github.com/LilianaKor)](#) — I’m open to feedback and collaboration!
+Feel free to contact me via [[LinkedIn](https://www.linkedin.com/in/liliana-k-988b7b238/)] or [[GitHub Issues](https://github.com/LilianaKor)] — I’m open to feedback and collaboration!
 
