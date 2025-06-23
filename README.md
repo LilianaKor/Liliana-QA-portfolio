@@ -131,7 +131,7 @@ Navigate → Click on "New Item", go to Multi-configuration Project
 
 Test Body — Actual test logic:
 
-# ✅ Assert that the Environment section is visible in project configuration
+ ✅ Assert that the Environment section is visible in project configuration
 
  ✅ Uses 3 sub-steps, likely: locate section → scroll into view → assert visible
 
@@ -140,5 +140,5 @@ Usually closes the browser, releases resources
 
 
 
-# 🔗 Feel free to contact me via [[LinkedIn](https://www.linkedin.com/in/liliana-k-988b7b238/)] or [[GitHub Issues](https://github.com/LilianaKor)] — I’m open to feedback and collaboration!
+### 🔗 Feel free to contact me via [[LinkedIn](https://www.linkedin.com/in/liliana-k-988b7b238/)] or [[GitHub Issues](https://github.com/LilianaKor)] — I’m open to feedback and collaboration!
 
