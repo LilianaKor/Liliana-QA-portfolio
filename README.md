@@ -89,5 +89,5 @@ It showcases test case management, structured automation, code collaboration, an
 
 ## 💬 Questions? Feedback?
 
-Feel free to contact me via [[LinkedIn](https://www.linkedin.com/in/liliana-k-988b7b238/)](#) or [[GitHub Issues](https://github.com/LilianaKor)](#) — I’m open to feedback and collaboration!
+Feel free to contact me via [[LinkedIn](https://www.linkedin.com/in/liliana-k-988b7b238/)] or [[GitHub Issues](https://github.com/LilianaKor)](#) — I’m open to feedback and collaboration!
 
