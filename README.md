@@ -105,6 +105,7 @@ Professional QA practice → good for showing at interviews or demo reviews.
 In this test, I verify that the “Environment Options” section is visible when configuring a Multi-configuration Jenkins project.
 The test includes full setup: clearing Jenkins data, logging in, and creating a new project.
 All steps are documented in Allure with severity, duration, links to user stories, and test hierarchy.
+
 The test passed and shows traceability to GitHub issue TC_04.007.01.
 
 
