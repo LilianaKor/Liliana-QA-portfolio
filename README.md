@@ -4,6 +4,9 @@
  # 🧪 QA Automation Portfolio – Jenkins | Pytest | GitHub Actions
 
 Hi, I’m a Software QA Automation Engineer and this is a real-world demo of how I contribute to automated testing within a collaborative team setting.
+This project is a robust automation test suite for Jenkins, built with Pytest, Selenium, and integrated with Allure reporting. The framework uses a Page Object Model (POM) architecture and is designed to validate Jenkins multi-configuration projects, system configurations, and administrative flows.
+
+It features advanced Pytest fixtures to manage test environments, maintain browser sessions, and perform Jenkins cleanup between runs. Each test is linked to user stories in GitHub Projects for full traceability, with Allure providing a rich test report (metadata, screenshots, steps, and links).
 
 ---
 
@@ -138,6 +141,20 @@ Test Body — Actual test logic:
 
 Tear Down — Clean up actions after test:
 Usually closes the browser, releases resources
+
+This Jenkins automation framework is designed for real team-scale test coverage. It shows you can:
+
+manage stateful systems (Jenkins instances)
+
+validate UI with Selenium and Pytest
+
+integrate API calls for deeper validation
+
+apply best practices in code structure, cleanup, and reporting
+
+trace test results to acceptance criteria (user stories) and code changes
+
+It demonstrates not just “checking boxes” but engineering-level test design with maintainability, debuggability, and reusability.
 
 
 
