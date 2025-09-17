@@ -87,6 +87,7 @@ In this video, I demonstrate how I:
 
 This demo reflects real QA engineering work in a CI/CD-driven, agile testing environment.  
 It showcases test case management, structured automation, code collaboration, and ownership of test quality.
+➡️ [Watch the full 16-minute video demo here]  [(#](https://youtu.be/PRtPJYshClM)         (https://www.youtube.com/watch?v=LCbZNG4T5P0)  
 
 ---
 
