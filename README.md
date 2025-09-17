@@ -27,7 +27,7 @@ In this video, I demonstrate how I:
 
 # 📹 Demo Video
 
-➡️ [Watch the full 16-minute video demo here]  [(#])    (https://youtu.be/PRtPJYshClM) (https://www.youtube.com/watch?v=LCbZNG4T5P0)  
+➡️ [Watch the full 16-minute video demo here]  [(#](https://youtu.be/PRtPJYshClM) (https://www.youtube.com/watch?v=LCbZNG4T5P0)  
 (Suggested speed: 1.5x–2x for quick review)
 
 ---
